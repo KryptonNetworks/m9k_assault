@@ -1,5 +1,6 @@
 # m9k_assault
-For the Krypton Networks mod manager.
+Krypton Networks: Mod Manager
 
-## Credits
-All credit goes to the author of this mod.
+## Credit
+All credit goes to the author of this addon/content
+
